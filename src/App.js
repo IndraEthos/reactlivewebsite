@@ -16,6 +16,8 @@ function App() {
             <div className="card">
               <img
                 className="card-img-top"
+                width="311"
+                height="381"
                 src="https://images.ethoswatches.com/img/uploads/banners/1615441696shop-by-category-(mobile-desktop)@2x.jpg"
                 alt="Card"
               />
@@ -33,6 +35,8 @@ function App() {
             <div className="card">
               <img
                 className="card-img-top"
+                width="311"
+                height="381"
                 src="https://images.ethoswatches.com/img/uploads/banners/1615441775men@2x.jpg"
                 alt="Card"
               />
@@ -50,6 +54,8 @@ function App() {
             <div className="card">
               <img
                 className="card-img-top"
+                width="311"
+                height="381"
                 src="https://images.ethoswatches.com/img/uploads/banners/1614838415women.jpg"
                 alt="Card"
               />
@@ -67,6 +73,8 @@ function App() {
             <div className="card">
               <img
                 className="card-img-top"
+                width="311"
+                height="381"
                 src="https://images.ethoswatches.com/img/uploads/banners/1614838358accessories.jpg"
                 alt="Card"
               />
